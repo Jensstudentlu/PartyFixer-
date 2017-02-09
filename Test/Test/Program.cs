@@ -12,7 +12,7 @@ namespace Test
         {
             Console.WriteLine("HEJ TEST");
             Console.WriteLine("lul");
-
+            Console.WriteLine( "test igen");
         }
     }
 }
