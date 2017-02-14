@@ -12,6 +12,7 @@ namespace hej
         {
 
             Console.WriteLine("hej");
+            Console.WriteLine("hej");
         }
     }
 }
